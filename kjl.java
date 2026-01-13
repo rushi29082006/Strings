@@ -16,7 +16,7 @@ public class kjl {
         System.out.println(i.name+" "+i.age+""+i.wt);
         i.dom();
 
-    
+                                                                                                                        
     }
     
 }
