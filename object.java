@@ -9,7 +9,7 @@ int hi(int pami,int pMain){
         object n=new object();
         n.Main=29;
         n.ami=10;
-      System.out.println(  n.hi(n.ami,n.Main));
+      System.out.println( n.hi(n.ami,n.Main));
 
 
         
