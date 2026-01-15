@@ -13,6 +13,7 @@ class hi{
         hi d=new hi();
     int c=d.m;
     System.out.println(c);
+    System.out.println("hi nadh");
     
      }
 }
