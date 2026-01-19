@@ -12,5 +12,8 @@ public class omo {
             omo hi=new omo("lenovo",2056);
     
     System.out.println(hi.laptop);
+    System.out.println(hi.model_year);
+    
+
         } 
 }
